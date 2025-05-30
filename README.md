@@ -51,6 +51,10 @@ A fully functional e-commerce platform built using the **MERN Stack** (MongoDB, 
 ## 📸 Screenshots
 ![Uploading image.png…]()
 
+##📌 Output Link
+
+https://www.linkedin.com/posts/yasmin-banu-45375b292_mernstack-reactjs-nodejs-activity-7314223055365459968-Ehp1?utm_source=share&utm_medium=member_android&rcm=ACoAAEbyVb8BnBXtapjPRfyFXDs3axgxL8-fVl8
+
 
 
 
